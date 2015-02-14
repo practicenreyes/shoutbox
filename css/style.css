@@ -1,0 +1,21 @@
+body {
+	background-color: #ddd;
+}
+
+.all {
+	margin: 60px auto;
+}
+
+.shout-btn {
+	width: 100%;
+	margin: 10px auto;
+}
+
+li span {
+	color: #aaa;
+}
+
+.shouts {
+	height: 400px;
+	overflow: auto;
+}
